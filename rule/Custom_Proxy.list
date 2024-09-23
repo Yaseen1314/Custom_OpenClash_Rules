@@ -11,6 +11,6 @@ DOMAIN-SUFFIX,services.googleapis.cn
 # PS5 STUN
 DOMAIN-SUFFIX,stun.playstation.net
 # 12315机场
-DOMAIN,12315.cn.com
+DOMAIN-SUFFIX,12315.cn.com
 # coreelec
-DOMAIN,coreelec.org
+DOMAIN-SUFFIX,coreelec.org
