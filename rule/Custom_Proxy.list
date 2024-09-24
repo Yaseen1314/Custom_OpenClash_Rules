@@ -14,3 +14,5 @@ DOMAIN-SUFFIX,stun.playstation.net
 DOMAIN-SUFFIX,12315.cn.com
 # coreelec
 DOMAIN-SUFFIX,coreelec.org
+# okfun
+DOMAIN-SUFFIX,okfun.org
